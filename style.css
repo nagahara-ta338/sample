@@ -1,0 +1,11 @@
+body {
+    background: url(back.gif);
+}
+
+div {
+    width: 600px;
+    min-height: 100vh;
+    margin: auto;
+    background: #ffffff;
+    padding: 10px 50px;
+}
